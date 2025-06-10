@@ -1,8 +1,8 @@
 # E_book_ProfiSSa
 Este é um projeto de desenvolvimento DIO E-book com ChatGPD e Leonardo AI.
 
-Fiz de maneira mais minimalista possivel dando prioriadade a história que tem muito com a minha história.
-Publiquei no KND da amazon por isso estou colocando como privado aqui para validação de vocês.
+Fiz de maneira mais minimalista possivel dando prioriadade a história que tem muito com a minha.
+Publiquei no KDP da amazon por isso estou colocando como privado aqui para validação de vocês.
 
 link = https://www.amazon.com.br/dp/B0FCBH5LTM
 
