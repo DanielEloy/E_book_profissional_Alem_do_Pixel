@@ -1,4 +1,3 @@
-# E_book_ProfiSSa
 Este é um projeto de desenvolvimento DIO E-book com ChatGPD e Leonardo AI.
 
 Fiz de maneira mais minimalista possivel dando prioriadade a história que tem muito com a minha.
